@@ -8,4 +8,3 @@ hooks:
     - location: scripts/delete_files.sh
       timeout: 300
       runas: root 
-#just a comment
