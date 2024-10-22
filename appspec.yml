@@ -7,4 +7,5 @@ hooks:
   BeforeInstall:
     - location: scripts/delete_files.sh
       timeout: 300
-      runas: root
+      runas: root 
+#just a comment
